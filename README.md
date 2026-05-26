@@ -6,6 +6,13 @@ This project is a minimal, end-to-end sandbox to validate Supabase Auth (email/p
 - JWTs issued by Supabase are accepted by the backend and applied to Row Level Security (RLS).
 - Local development flow works consistently across browser, API, and database.
 
+
+
+
+<img width="872" height="629" alt="image" src="https://github.com/user-attachments/assets/3ca5ef95-05a9-4df6-a8f4-91cf4db54519" />
+![alt text](/pics/task_1.PNG)
+
+
 ## Project Structure
 
 - main.py: FastAPI backend with /signup, /login, /notes endpoints.
