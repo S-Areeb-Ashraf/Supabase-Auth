@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env files
+.env
+.env.*
+
+# Local editor
+.vscode/
