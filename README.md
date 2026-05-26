@@ -7,10 +7,9 @@ This project is a minimal, end-to-end sandbox to validate Supabase Auth (email/p
 - Local development flow works consistently across browser, API, and database.
 
 
+## Preview
 
-
-<img width="872" height="629" alt="image" src="https://github.com/user-attachments/assets/3ca5ef95-05a9-4df6-a8f4-91cf4db54519" />
-![alt text](/pics/task_1.PNG)
+![alt text](pics/task_1.PNG)
 
 
 ## Project Structure
